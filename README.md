@@ -1,7 +1,7 @@
 
 <div align="left">
   <a href="https://github.com/omarguerrer">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omargpax&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omargpax&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="150em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omargpax&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
