@@ -3,16 +3,10 @@
 <!--
 **omargpax/omargpax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on mi profile
-- 🌱 I’m currently learning c# and some more languages
-- 😄 
-
 <div align="left">
   <a href="https://github.com/omarguerrer">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omargpx&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omargpx&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=omargpax&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" width="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omargpax&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
 <div style="display: inline_block"><br>
