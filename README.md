@@ -61,6 +61,3 @@
 
 ###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=omargpax&repo=creator-badge&show_owner=true&theme=dracula&hide_border=true&disable_animations=false&show_icons=true)](https://github.com/omargpax/creator-badge)
-
-` If you can imagine it, you can program it - A. Taboada`
