@@ -2,10 +2,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omargpax&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&rank_icon=github" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omargpax&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWVxY3BrajlrNTI1YzZoYWUzdTZkbGlxdmZ2c2gxbGFsMmM5YmFkciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH1jGsCnQBiFHWMFzh/giphy.gif" alt="anime" height="160" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omargpax&theme=tokyonight" alt="GitHub Streak" height="160"/>
+</p>
 
 ###
 
@@ -34,7 +35,7 @@
 ###
 
 <div align="left">
-  <a href="https://omargpax.vercel.app"><img src="https://res.cloudinary.com/ddssdlplt/image/upload/v1736395670/website_z0kfed.jpg" height="35" alt="wsite logo" /></a>
+  <a href="https://omargpax.vercel.app"><img src="https://res.cloudinary.com/ddssdlplt/image/upload/v1736395670/website_z0kfed.jpg" height="28" alt="wsite logo" /></a>
   <a href="https://www.instagram.com/omargpax/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href = "mailto:omargpax.dev@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/omargpax/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
