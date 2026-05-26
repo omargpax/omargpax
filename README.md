@@ -3,7 +3,9 @@
 ###
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWVxY3BrajlrNTI1YzZoYWUzdTZkbGlxdmZ2c2gxbGFsMmM5YmFkciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH1jGsCnQBiFHWMFzh/giphy.gif" alt="anime" height="160" />
+  <a href="https://versa.omargpax.dev" target="_blank">
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWVxY3BrajlrNTI1YzZoYWUzdTZkbGlxdmZ2c2gxbGFsMmM5YmFkciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH1jGsCnQBiFHWMFzh/giphy.gif" alt="anime" height="160" />
+  </a>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omargpax&theme=tokyonight" alt="GitHub Streak" height="160"/>
 </p>
