@@ -4,10 +4,10 @@
 
 <p align="center">
   <a href="https://versa.omargpax.dev" target="_blank">
-    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWVxY3BrajlrNTI1YzZoYWUzdTZkbGlxdmZ2c2gxbGFsMmM5YmFkciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH1jGsCnQBiFHWMFzh/giphy.gif" alt="anime" height="160" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWVxY3BrajlrNTI1YzZoYWUzdTZkbGlxdmZ2c2gxbGFsMmM5YmFkciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gH1jGsCnQBiFHWMFzh/giphy.gif" alt="anime" height="200" />
   </a>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omargpax&theme=tokyonight" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=omargpax&theme=transparent&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&hide_current_streak=true" alt="GitHub Streak" height="200"/>
 </p>
 
 ###
