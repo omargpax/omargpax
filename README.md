@@ -13,10 +13,6 @@
 
 ###
 
-<img align="right" class="imagen-redonda" height="150" src="https://res.cloudinary.com/ddssdlplt/image/upload/v1736394834/omargpax-avatar_w8ywwx.png"/>
-
-###
-
 <div align="left">
   <a href="https://www.oracle.com/java/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" /></a>
   <img width="12" />  
@@ -38,15 +34,11 @@
 ###
 
 <div align="left">
-  <a href="https://omargpax.vercel.app"><img src="https://res.cloudinary.com/ddssdlplt/image/upload/v1736395670/website_z0kfed.jpg" height="28" alt="wsite logo" /></a>
+  <a href="https://omargpax.dev"><img src="https://res.cloudinary.com/ddssdlplt/image/upload/v1736395670/website_z0kfed.jpg" height="28" alt="wsite logo" /></a>
   <a href="https://www.instagram.com/omargpax/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href = "mailto:omargpax.dev@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/omargpax/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
-
-###
-
-<br clear="both">
 
 <picture>
   <source
