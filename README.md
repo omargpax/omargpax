@@ -2,8 +2,6 @@
 
 I'm a Systems Engineer focused on **Backend Development, Data Management, and Software Project Development**. I enjoy building software solutions, developing backend services, working with databases, and continuously learning technologies that help create reliable and maintainable applications.
 
-My goal is to keep growing as a software engineer by strengthening my technical skills and contributing to meaningful projects.
-
 ---
 
 ### 🚀 Areas of Focus
